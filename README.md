@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dragon112k
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, javascript
-- 💞️ I’m looking to collaborate on a job
 - 📫 How to reach me ... You dont
 - ⚡ Fun fact: ...I code
 <!---
